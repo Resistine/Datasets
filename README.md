@@ -1,5 +1,5 @@
 # Datasets
-The list of consolidated datasets follow
+The list of consolidated SIEM/XDR datasets:
 
 ### Cyber-security Datasets - Kaggle
 A collection of public datasets of cyberthreats. \
@@ -20,7 +20,7 @@ Here is a list of potentially useful data sets for the VizSec research and devel
 https://vizsec.org/data/
 
 ## Network Datasets
-We don't consider network-only datasets including the following and we put them here just because they are friends and they will surely acquire more information soon :)
+We don't consider network-only datasets as IDS/NDR/NetFlow. However, we put them here because they are friends and they will surely acquire more information soon :)
 
 ### Public PCAP files for download - Netresec
 NETRESEC AB is an independent software vendor (ISV) with focus on network security monitoring and network forensics. The datasets include various Pcap files as Research PCAP datasets from FOI's Information Warfare Lab (FOI is The Swedish Defence Research Agency) Technical challenges used by Sweden's National Defence Radio Establishment (FRA) for recruitment. Includes several PCAP challenges. \
